@@ -97,7 +97,7 @@ Like I mentioned, this project is super last minute (started less than a day ago
 | **10k R 0603** | 1 | $0.10 | [DigiKey](https://www.digikey.com/short/p59dnbn3) |
 | **0.1uF C 0603** | 2 | $0.12 |[DigiKey](https://www.digikey.com.au/short/w83wjqbv) |
 | **10uF C 0603** | 2 | $0.35 |[DigiKey](https://www.digikey.com/short/5dtppp4z) |
-| **DSA Keycaps 10pcs** | 1 | $5.95 |[DigiKey](https://www.digikey.com/short/p4j0ztf5) |
+| **DSA Keycaps 10pcs** | 1 | (have) |[DigiKey](https://www.digikey.com/short/p4j0ztf5) |
 | **Cherry MX Blue 10pcs** | 1 | $4.00 |[MechanicalKeyboards](https://mechanicalkeyboards.com/products/cherry-mx-blue-60g-clicky) |
 | **1x10 JST-XH Jumper** | 1 | $3.40 |[AliExpress](https://www.aliexpress.us/item/3256807069159656.html) |
 | **1x4 JST-XH Jumper** | 1 | $2.36 |[AliExpress](https://www.aliexpress.us/item/3256807069159656.html) |
@@ -115,7 +115,7 @@ Totals
 | **AliExpress Order** |  $19.44 | 
 | **MechanicalKeyboards Order** |  $9.52 | 
 
-This total comes out to $109.81 which is slightly over my limit. I'll downgrade to some generic Cherry MX Red switches I already have, which  brings the total to  **$100.29**.
+This total comes out to $109.81 which is slightly over my limit. I'll downgrade to some generic Cherry MX Red switches, and some old DSA switches, both which I alreday have bringing the total to **$94.34**.
 
 Orders:
 
