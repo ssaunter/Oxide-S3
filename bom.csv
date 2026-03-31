@@ -1,32 +1,32 @@
 Part,Quantity,Price Per,Link
-0.91" OLED,1,$1.95,https://www.aliexpress.us/item/3256806449757543.html
-3.5" TFT,1,$10.45,https://www.aliexpress.us/item/3256801812264108.html
-ESP32-S3-WROOM-1-N8R8,1,$6.13,https://www.digikey.com/short/wq4p3rwv
-LDO,1,$0.22,https://www.digikey.com/short/b2m9hq2c
-Battery Charger,1,$0.47,https://www.digikey.com/short/dz9hbfw5
-USB-C Recepticle,1,$0.78,https://www.digikey.com/short/rnhfh9zp
-Rotary Encoder,2,$1.72,https://www.digikey.com/short/1mq4zdpt
-Boot Button,1,$0.56,https://www.digikey.com/short/q5bt28qt
-Slide Switch,1,$0.65,https://www.digikey.com/short/41mc094h
-1x2 JST-PH,1,$0.11,https://www.digikey.com/short/41b2w40z
-1x10 JST-XH,2,$0.32,https://www.digikey.com/short/5571c5z5
-1x4 JST-XH,2,$0.14,https://www.digikey.com/short/h5trn14w
-1.2k R 0603,1,$0.10,https://www.digikey.com/short/hnr0jfrp
-5.1k R 0603,2,$0.10,https://www.digikey.com/short/mmd3843z
-10k R 0603,1,$0.10,https://www.digikey.com/short/p59dnbn3
-0.1uF C 0603,2,$0.12,https://www.digikey.com.au/short/w83wjqbv
-10uF C 0603,2,$0.35,https://www.digikey.com/short/5dtppp4z
-DSA Keycaps 10pcs,1,Handled,https://www.digikey.com/short/p4j0ztf5
-1x10 JST-XH Jumper,1,$3.40,https://www.aliexpress.us/item/3256807069159656.html
-1x4 JST-XH Jumper,1,$2.36,https://www.aliexpress.us/item/3256807069159656.html
-1S 1500mAh LiPo,1,Handled,https://www.sparkfun.com/lithium-ion-battery-1500mah-iec62133-certified.html#content-documentation
+0.91-inch OLED,1,1.95,https://www.aliexpress.us/item/3256806449757543.html
+3.5-inch TFT,1,10.45,https://www.aliexpress.us/item/3256801812264108.html
+ESP32-S3-WROOM-1-N8R8,1,6.13,https://www.digikey.com/short/wq4p3rwv
+LDO,1,0.22,https://www.digikey.com/short/b2m9hq2c
+Battery Charger,1,0.47,https://www.digikey.com/short/dz9hbfw5
+USB-C Recepticle,1,0.78,https://www.digikey.com/short/rnhfh9zp
+Rotary Encoder,2,1.72,https://www.digikey.com/short/1mq4zdpt
+Boot Button,1,0.56,https://www.digikey.com/short/q5bt28qt
+Slide Switch,1,0.65,https://www.digikey.com/short/41mc094h
+1x2 JST-PH,1,0.11,https://www.digikey.com/short/41b2w40z
+1x10 JST-XH,2,0.32,https://www.digikey.com/short/5571c5z5
+1x4 JST-XH,2,0.14,https://www.digikey.com/short/h5trn14w
+1.2k R 0603,1,0.10,https://www.digikey.com/short/hnr0jfrp
+5.1k R 0603,2,0.10,https://www.digikey.com/short/mmd3843z
+10k R 0603,1,0.10,https://www.digikey.com/short/p59dnbn3
+0.1uF C 0603,2,0.12,https://www.digikey.com.au/short/w83wjqbv
+10uF C 0603,2,0.35,https://www.digikey.com/short/5dtppp4z
+DSA Keycaps 10pcs,1,5.95,https://www.digikey.com/short/p4j0ztf5
+1x10 JST-XH Jumper,1,3.40,https://www.aliexpress.us/item/3256807069159656.html
+1x4 JST-XH Jumper,1,2.36,https://www.aliexpress.us/item/3256807069159656.html
+1S 1500mAh LiPo,1,Handled,https://www.sparkfun.com/lithium-ion-battery-1500mah-iec62133-certified.html
 MicroSD,1,Handled,
 M3x6 Bolt,8,Handled,
 M3x5x5 Threaded Insert,8,Handled,
 Generic MX Red Switches,6,Handled,
 ,,,
 Service,Price,,
-JLCPCB Order,$48.49,,
-DigiKey Order,$26.41,,
-AliExpress Order,$19.44,,
-TOTAL,$94.34,,
+JLCPCB Order,48.49,,
+DigiKey Order,26.41,,
+AliExpress Order,19.44,,
+TOTAL,94.34,,
