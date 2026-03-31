@@ -1,5 +1,5 @@
 # Oxide-S3
-Oxide-S3 is a retro spotift interface featuring a large TFT screen, a small OLED screen, 6 tactile switches, and 2 rotary encoders, all running on an ESP32-WROOM-1.
+Oxide-S3 is a retro Spotify interface featuring a large TFT screen, a small OLED screen, 6 tactile switches, and 2 rotary encoders, all running on an ESP32-WROOM-1.
 
 ![Front Device](images/front.png)
 
