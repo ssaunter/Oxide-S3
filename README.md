@@ -7,6 +7,9 @@ The device uses three seperate PCBs, one for the front, one for the top, and one
 
 ![Back Device](images/back.png)
 
+![Exploded View](images/exploded.png)
+
+
 # The PCBs
 
 Front PCB:
@@ -29,7 +32,6 @@ Schematic:
 
 # Assembly
 
-![Exploded View](images/exploded.png)
 
 The assembly is performed in several steps. First, 8 M3x5x5 threaded inserts are installed to the standoffs in the 3D printed front case. Then, the three PCBs are secured using M3x6 bolts.
 
@@ -69,7 +71,7 @@ The TFT screen will be controlled through SPI, and the OLED through I2C. To add 
 
 
 
-Like I mentioned, this project is super last minute (started like 20 hours ago to get in submission). I'll write the code and update this repo once I recieve the parts, and show off what the Oxide-S3 can do.Here's an example of how simple the code can be, written by [Donatnan Jong](https://github.com/Dongathan-Jong):
+Like I mentioned, this project is super last minute (started less than a day ago). I'll write the code and update this repo once I recieve the parts, and show off what the Oxide-S3 can do. Here's an example of how simple the code can be, written by [Donatnan Jong](https://github.com/Dongathan-Jong/SpotifyDisplay/?tab=readme-ov-file):
 
 ![Example Code](images/examplecode.png)
 
