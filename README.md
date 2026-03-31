@@ -53,6 +53,20 @@ Taking inspiration from [Donatnan Jong](https://github.com/Dongathan-Jong), I pl
 
 The TFT screen will be controlled through SPI, and the OLED through I2C. To add images, I'll use a bitmap tool to add features. Below are the major functions of the two displays:
 
+Required Libraries:
+---
+```
+#include <Arduino.h>
+#include <ArduinoJson.h>
+#include <Adafruit_GFX.h>
+#include <Adafruit_ST7735.h>
+#include <WiFi.h>
+#include <SpotifyEsp32.h>
+#include <SPI.h>
+```
+
+
+
 |3.5" TFT|
 | :---: |
 |Spotify symbol|
@@ -68,6 +82,7 @@ The TFT screen will be controlled through SPI, and the OLED through I2C. To add 
 |Clock|
 |Volume/Mute symbol|
 |Wifi status|
+
 
 
 
